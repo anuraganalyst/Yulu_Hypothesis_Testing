@@ -16,7 +16,7 @@ The company wants to know:
 • How well those variables describe the electric cycle demands
 
 # Dataset
-[Yulu[(https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/001/428/original/bike_sharing.csv?1642089089)
+[Yulu](https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/001/428/original/bike_sharing.csv?1642089089)
 
 # Tool used
 Python
